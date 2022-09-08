@@ -247,3 +247,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+
+### Learning through entertainment:
+- [Robocode](https://robocode.sourceforge.io/)
+- [Elevatorsaga](https://play.elevatorsaga.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CodingGame](https://www.codingame.com/start/)
+- [Regex crossword](https://regexcrossword.com/)
+
